@@ -1,4 +1,4 @@
-package com.te.comporator;
+package com.te.comporator.noduplicates;
 
 import java.util.Comparator;
 
@@ -11,3 +11,4 @@ public class CompareByName  implements Comparator<Student>{
 	}
 
 }
+
